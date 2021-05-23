@@ -14,21 +14,21 @@ module.exports = {
       nav: [
         { text: 'Home', link: '/' },
         { text: 'Github', link: 'https://github.com/shuhey0207' }
-      ],
-      sidebarDepth: 0,
-      sidebar: [
-        {
-          title: 'Test',
-          children: [
-            {
-              title: 'Test sub',
-              children: [
-                '/test/test_sub/test_sub1/',
-                '/test/test_sub/test_sub2/'
-              ]
-            }
-          ]
-        }
-      ],
+      ]
+      // sidebarDepth: 0,
+      // sidebar: [
+      //   {
+      //     title: 'Test',
+      //     children: [
+      //       {
+      //         title: 'Test sub',
+      //         children: [
+      //           '/test/test_sub/test_sub1/',
+      //           '/test/test_sub/test_sub2/'
+      //         ]
+      //       }
+      //     ]
+      //   }
+      // ],
     }
   }
