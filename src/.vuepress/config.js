@@ -3,6 +3,7 @@
 module.exports = {
     title: 'SCODER',
     base: '/blog/',
+    dest: 'docs/',
     description: 'とあるソフトウェアエンジニアの記録',
     locales: {
         '/': {
